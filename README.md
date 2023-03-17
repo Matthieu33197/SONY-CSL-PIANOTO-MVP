@@ -1,8 +1,9 @@
+## Dec 3, 2022
 <div id="top"></div>
 <br />
 <div align="center">
   <a href="https://github.com/MartinLeblancs/SONY-CSL-PROJECT">
-    <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Logo" width="150" height="50"><br/> X <br/><img src="https://csl.sony.fr/wp-content/themes/sony/images/logo.png" alt="Logo" width="250" height="50">
+    <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Logo" width="150" height="50"><br/> X <br/><img src="https://csl.sony.fr/wp-content/uploads/2022/06/SonyCSL_logo_color_textlogo_black_Large.png" alt="Logo" width="250" height="50">
   </a>
 
 <h3 align="center">MUSIQUE A TROU</h3>
